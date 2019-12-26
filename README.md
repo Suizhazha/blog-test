@@ -18,4 +18,4 @@
 
 下面是代码：
 
-    console.log("你好，饥人谷");
+    console.log('hello jsg');
